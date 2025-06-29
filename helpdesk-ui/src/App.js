@@ -26,7 +26,7 @@ function App() {
     departman: '',
     description: '',
     category: '',
-    priority: "",
+    priority: '',
     status: 'Açık',
   };
 
